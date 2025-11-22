@@ -19,6 +19,9 @@
         <mxCell id="CEt6ckg9EZBHwRFPS58R-8" value="中值滤波" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="430" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CEt6ckg9EZBHwRFPS58R-9" value="二值化处理" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
