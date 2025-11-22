@@ -40,7 +40,7 @@
         <mxCell id="CEt6ckg9EZBHwRFPS58R-15" value="宽度计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="510" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CEt6ckg9EZBHwRFPS58R-16" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CEt6ckg9EZBHwRFPS58R-16" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="450" y="585" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
