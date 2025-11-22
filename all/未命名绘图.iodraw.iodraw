@@ -49,8 +49,17 @@
         <mxCell id="CEt6ckg9EZBHwRFPS58R-11" value="亚像素边缘定位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="270" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CEt6ckg9EZBHwRFPS58R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CEt6ckg9EZBHwRFPS58R-12" target="CEt6ckg9EZBHwRFPS58R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEt6ckg9EZBHwRFPS58R-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CEt6ckg9EZBHwRFPS58R-12" target="CEt6ckg9EZBHwRFPS58R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-12" value="是否有弯曲&lt;div&gt;预浸带&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="435" y="350" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CEt6ckg9EZBHwRFPS58R-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CEt6ckg9EZBHwRFPS58R-13" target="CEt6ckg9EZBHwRFPS58R-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-13" value="骨架提取-距离变换" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="440" width="100" height="50" as="geometry" />
