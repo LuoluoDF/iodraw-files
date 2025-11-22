@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CEt6ckg9EZBHwRFPS58R-25">
           <mxGeometry x="-0.45" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CEt6ckg9EZBHwRFPS58R-12" target="CEt6ckg9EZBHwRFPS58R-14">
@@ -62,7 +62,7 @@
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CEt6ckg9EZBHwRFPS58R-26">
           <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-12" value="是否有弯曲&lt;div&gt;预浸带&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
