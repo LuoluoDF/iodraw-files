@@ -64,6 +64,9 @@
         <mxCell id="CEt6ckg9EZBHwRFPS58R-13" value="骨架提取-距离变换" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="440" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CEt6ckg9EZBHwRFPS58R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CEt6ckg9EZBHwRFPS58R-14" target="CEt6ckg9EZBHwRFPS58R-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-14" value="直线拟合-距离计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="440" width="100" height="50" as="geometry" />
         </mxCell>
@@ -74,6 +77,9 @@
           <mxGeometry x="450" y="585" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CEt6ckg9EZBHwRFPS58R-11" target="CEt6ckg9EZBHwRFPS58R-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CEt6ckg9EZBHwRFPS58R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CEt6ckg9EZBHwRFPS58R-15" target="CEt6ckg9EZBHwRFPS58R-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
