@@ -13,7 +13,7 @@
         <mxCell id="X9T2dJH0O1CFgfoisbN3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9T2dJH0O1CFgfoisbN3-2" target="X9T2dJH0O1CFgfoisbN3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X9T2dJH0O1CFgfoisbN3-2" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;计算图像中每个前景像素点到最近背景像素点的欧氏距离，得到距离变换图&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;D(x,y)&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="X9T2dJH0O1CFgfoisbN3-2" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;计算图像中每个前景像素点到最近背景像素点的欧氏距离，得到距离变换图&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;D(x,y)&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="142.5" width="127.5" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="X9T2dJH0O1CFgfoisbN3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9T2dJH0O1CFgfoisbN3-4" target="X9T2dJH0O1CFgfoisbN3-6">
