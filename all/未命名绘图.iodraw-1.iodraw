@@ -7,6 +7,9 @@
         <mxCell id="X9T2dJH0O1CFgfoisbN3-1" value="采用中值滤波和二值化对图像进行预处理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="110" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="X9T2dJH0O1CFgfoisbN3-2" value="采用中值滤波和二值化对图像进行预处理" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="110" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
