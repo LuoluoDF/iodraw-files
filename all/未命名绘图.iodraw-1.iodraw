@@ -34,6 +34,9 @@
         <mxCell id="X9T2dJH0O1CFgfoisbN3-8" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;对骨架候选点应用迭代细化算法，得到单像素宽度的初始骨架&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="698.75" y="320" width="130" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="X9T2dJH0O1CFgfoisbN3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X9T2dJH0O1CFgfoisbN3-9" target="X9T2dJH0O1CFgfoisbN3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X9T2dJH0O1CFgfoisbN3-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;连接距离相近的骨架断点，并基于方向分析修剪与主方向夹角过大的横向伪分支&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="130" height="130" as="geometry" />
         </mxCell>
