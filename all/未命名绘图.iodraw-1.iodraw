@@ -20,7 +20,7 @@
           <mxGeometry x="697" y="320" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="X9T2dJH0O1CFgfoisbN3-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;连接距离相近的骨架断点，并基于方向分析修剪与主方向夹角过大的横向伪分支&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="120" height="120" as="geometry" />
+          <mxGeometry x="430" y="320" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="X9T2dJH0O1CFgfoisbN3-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;遍历骨架上的每一个点&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;(x&lt;sub&gt;i&lt;/sub&gt;,y&lt;sub&gt;i&lt;/sub&gt;)&lt;/span&gt;，根据距离变换图&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;D(x&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;,y&lt;sub style=&quot;&quot;&gt;i&lt;/sub&gt;)，计算预浸带宽度&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="60" y="320" width="110" height="110" as="geometry" />
