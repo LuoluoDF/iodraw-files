@@ -10,8 +10,8 @@
         <mxCell id="X9T2dJH0O1CFgfoisbN3-2" value="&lt;br&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:14.0pt;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&amp;lt;br/&amp;gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;计算图像中每个前景像素点到最近背景像素点的欧氏距离，得到距离变换图&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:14.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&amp;lt;br/&amp;gt;mso-fareast-font-family:宋体;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;D(x,y)&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="110" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="X9T2dJH0O1CFgfoisbN3-3" value="计算图像中每个前景像素点到最近背景像素点的欧氏距离，得到距离变换图D(x,y)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="180" width="460" height="40" as="geometry" />
+        <mxCell id="X9T2dJH0O1CFgfoisbN3-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="580" y="125" width="145" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
