@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-14" value="直线拟合-距离计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="590" y="440" width="100" height="50" as="geometry" />
+          <mxGeometry x="590" y="410" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CEt6ckg9EZBHwRFPS58R-15" value="宽度计算" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="100" height="50" as="geometry" />
